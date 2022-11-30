@@ -1,0 +1,19 @@
+{
+  "name": "moviestars",
+  "version": "1.0.0",
+  "description": "Aplicación de Películas realizada como resultado del Curso Práctico de Consumo de API Rest con Javascript de Platzi.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeriRoqueTello/MovieStars.git"
+  },
+  "author": "@heriroque",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HeriRoqueTello/MovieStars/issues"
+  },
+  "homepage": "https://github.com/HeriRoqueTello/MovieStars#readme"
+}
